@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TowkNT0g/RA=",
+  "success": true,
+  "projectFilePath": "E:\\Program Files\\Epic Games\\Unreal\\Projects\\SoulslikeFramework\\Plugins\\UnLua\\Source\\UnLuaDefaultParamCollectorUbtPlugin\\UnLuaDefaultParamCollectorUbtPlugin.ubtplugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
